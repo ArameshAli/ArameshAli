@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArameshAli
+- 👋 Hi, I’m Ali Aramesh.
 - 👀 I’m passinate with data and experienced in programming languages like Python, SQL, Java, C and C++.
 - 🌱 I’m actively seeking for a position as data analyst/data scientist in energy or automotive sectors. 
 - 💞️ I’m looking to collaborate on ...
